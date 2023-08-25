@@ -11,7 +11,7 @@ function EmployeeList() {
     },
     {
       id: 2,
-      image: "./src/images/woman1.jpg",
+      image: "./src/images/woman2.jpg",
       name: "Julie Taylor",
       position: "VP of Marketing"
     },

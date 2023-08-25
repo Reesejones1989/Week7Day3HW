@@ -7,7 +7,7 @@ function Homepage() {
   return (
     <div className="Homepage">
       {" "}
-      <Header />
+      <Header title = "Employee Directory" />
       <SearchBar />
       <EmployeeList />
     </div>
